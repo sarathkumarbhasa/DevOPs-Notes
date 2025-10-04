@@ -72,7 +72,3 @@ Includes features like:
 - Login & signup  
 - Online payment  
 - Discount section (implemented using SDLC mini-cycle)
-
----
-
-> ✨ *Created by Sarath Kumar — Founder of SarathWebWorks*
